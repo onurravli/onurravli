@@ -1,7 +1,8 @@
-<center><h1>Hi, I’m @onurravli</h1></center>
-<li> 👀 I’m interested in software development, electronics and LISTENING to music. :D
-<li> 🌱 I’m currently learning and using, C++, Python, JS and Java.
-<li> 📫 How to reach me? <a href="https://onurravli.github.io">my website</a> or <a href="mailto:onurravli@hotmail.com">my mail adress</a> or <a href="mailto:onurravli@protonmail.ch">my second mail adress</a>
+<center><h1>Merhaba, ben Onur!</h1></center>
+<p>20 yaşındayım, KTÜN'de elektrik elektronik mühendisliği 2. sınıf öğrencisiyim.
+<li> 👀 Birkaç yıldır yazılım geliştirmeyle ilgileniyorum, günün her saati müzik dinlerim.
+<li> 🌱 Şu anda C++, Python, Javascript ve Java'yı hem kullanıyor hem de öğreniyorum.
+<li> 📫 Bana <a href="https://onurravli.github.io">website</a>m üzerinden ya da <a href="mailto:onurravli@hotmail.com">mail adresimden</a> ulaşabilirsiniz.
 
 <!---
 onurravli/onurravli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
