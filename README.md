@@ -1,5 +1,5 @@
 ### `sudo pip install onurravli`
-Merhaba, ben ***Onur***!
+Merhaba, ben **Onur**!
 20 yaşındayım, KTÜN'de elektrik elektronik mühendisliği 2. sınıf öğrencisiyim.
 <li> 👀 Birkaç yıldır yazılım geliştirmeyle ilgileniyorum, günün her saati müzik dinlerim.
 <li> 🌱 Şu anda C++, Python, Javascript ve Java'yı hem kullanıyor hem de öğreniyorum.
