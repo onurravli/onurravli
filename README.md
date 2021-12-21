@@ -6,4 +6,8 @@ Merhaba, ben **Onur**!
 <li> 📫 Bana <a href="https://onurravli.github.io">website</a>m üzerinden ya da <a href="mailto:onurravli@hotmail.com">mail adresimden</a> ulaşabilirsiniz.
 <li> 🐦 <a href="https://twitter.com/onurravli">Tweetlerim</a>e göz atabilir,
 <li> 🏹 <a href="">CV</a>'mi inceleyebilirsiniz.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
