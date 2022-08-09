@@ -1,5 +1,5 @@
 Merhaba, ben **Onur**.
-20 yaşındayım, elektrik elektronik mühendisliği 3. sınıf öğrencisiyim.
+20 yaşındayım, bilgisayar mühendisliği 1. sınıf öğrencisiyim.
 - 👀 Birkaç yıldır yazılım geliştirmeyle ilgileniyorum, günün her saati müzik dinlerim.
 - 🌱 Şu anda C++, Python, Javascript, Java ve Go'yu hem kullanıyor hem de öğreniyorum.
 - 💻 Birincil işletim sistemi olarak Arch Linux, masaüstü ortamı olarak da KDE Plasma kullanıyorum.
