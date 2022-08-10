@@ -12,10 +12,10 @@ class Ben:
     print("Merhaba, GitHub profilime hos geldiniz. <3")
 ```
 
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=onurravli)
-</p>
 
-[![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli)](https://github.com/anuraghazra/github-readme-stats)
+<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli">
+</div>
