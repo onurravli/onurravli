@@ -11,7 +11,6 @@ Merhaba, ben **Onur**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- display the social media buttons in your README -->
 
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
@@ -20,7 +19,6 @@ Merhaba, ben **Onur**.
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
 [![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
 
-<!-- To Link your profile to the media buttons -->
 
 [1]: https://www.facebook.com/onurravli
 [2]: https://www.instagram.com/onurravli
