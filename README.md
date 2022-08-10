@@ -11,10 +11,11 @@ class Ben:
   def merhaba(self):
     print("Merhaba, GitHub profilime hos geldiniz. <3")
 ```
+
 <br>
-<img style="margin-left: 50%" src="https://komarev.com/ghpvc/?username=onurravli">
+<img style="display: flex;" src="https://komarev.com/ghpvc/?username=onurravli">
 <br>
-<br>
+
 <div style="display: flex; flex-direction: row;">
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true">
 
