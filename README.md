@@ -17,4 +17,5 @@ class Ben:
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli">
 </div>
 
+<br>
 <img src="https://komarev.com/ghpvc/?username=onurravli">
