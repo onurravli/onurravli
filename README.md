@@ -13,8 +13,10 @@ class Ben:
 ```
 
 <br>
-<img style="width: 100%; height: 20px;" src="https://komarev.com/ghpvc/?username=onurravli">
+<center>
+<img src="https://komarev.com/ghpvc/?username=onurravli">
 <br>
+</center>
 
 <div style="display: flex; flex-direction: row;">
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true">
