@@ -7,6 +7,7 @@ class Ben:
     self.iletisim = "onurravli@hotmail.com"
     self.konum = "Kayseri"
     self.meslek = "Ogrenci, yazilim gelistirici"
+    self.diller = ['cpp', 'python', 'java']
 
   def merhaba(self):
     print("Merhaba, GitHub profilime hos geldiniz. <3")
