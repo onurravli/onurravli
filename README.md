@@ -13,7 +13,7 @@ class Ben:
 ```
 
 <br>
-<img style="display: flex;" src="https://komarev.com/ghpvc/?username=onurravli">
+<img style="width: 100%; height: 20px;" src="https://komarev.com/ghpvc/?username=onurravli">
 <br>
 
 <div style="display: flex; flex-direction: row;">
