@@ -5,7 +5,7 @@ class Ben:
     self.soyad = "Ravli"
     self.yas = 21
     self.iletisim = "onurravli@hotmail.com"
-    self.konum = "Kayseri"
+    self.konum = "Kayseri, Konya, Ankara" # Sana ne lazimdi? 🤪
     self.meslek = "Ogrenci, yazilim gelistirici"
     self.diller = ['cpp', 'python', 'java']
 
