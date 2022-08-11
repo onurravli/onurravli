@@ -1,4 +1,6 @@
-```python
+<p align="center">
+  
+  ```python
 class Ben:
   def __init__(self):
     self.ad = "Onur"
@@ -19,7 +21,6 @@ class Ben:
 
 <p align="left"> <a href="https://twitter.com/onurravli" target="blank"><img src="https://img.shields.io/twitter/follow/onurravli?logo=twitter&style=for-the-badge" alt="onurravli" /></a> </p>
 
-<p align="center">
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true">
 
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli">
