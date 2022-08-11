@@ -44,7 +44,7 @@ class Developer:
   <a href="https://www.hackerrank.com/onurravli"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
  </p>
  
- 
+ <p align="center">Here's My Stats</p>
 <p align="left">
   <a href="https://github.com/onurravli">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=onurravli&show_icons=true&hide_border=true" />
@@ -53,14 +53,3 @@ class Developer:
 </p>
 
 [![onurravli Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onurravli&custom_title=onurravli%20Trips's%20Contribution%20Graph&hide_border=true&bg_color=fff)](https://github.com/onurravli)
-
- 
- 
- 
- <p align="center">Here's My Stats</p>
- <p style="display: flex" align="center">
-  <img style="width: 100%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true"> <br />
-  <img style="width: 100%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&layout=compact"> <br />
-  <img style="width: 100%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli&" alt="onurravli" /> <br />
-  <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurravli" alt="onurravli" />  </a> --> 
-</p>
