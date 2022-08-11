@@ -53,7 +53,7 @@ class Developer:
 </p>
 <br>
 
-[![kadirbelkuyu Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kadirbelkuyu&custom_title=kadirbelkuyu%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/kadirbelkuyu)
+[![onurravli Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onurravli&custom_title=onurravli%20Trips's%20Contribution%20Graph&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/onurravli)
 
  
  
