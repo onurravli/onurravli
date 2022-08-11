@@ -15,10 +15,15 @@ class Ben:
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=onurravli&label=Views&color=b40e0e&style=flat-square" alt="onurravli" />
+  <br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurravli" alt="onurravli" /></a>
+  <br>
 <a href="https://twitter.com/onurravli" target="blank"><img src="https://img.shields.io/twitter/follow/onurravli?logo=twitter&style=for-the-badge" alt="onurravli" /></a>
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true">
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli">
-<img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1">
+  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true">
+  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli">
+  <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1">
 <br>
 <img src="https://komarev.com/ghpvc/?username=onurravli">
