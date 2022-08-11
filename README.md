@@ -45,6 +45,19 @@ class Developer:
  </p>
  
  
+<p align="left">
+  <a href="https://github.com/onurravli">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=onurravli&show_icons=true&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![kadirbelkuyu Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kadirbelkuyu&custom_title=kadirbelkuyu%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/kadirbelkuyu)
+
+ 
+ 
+ 
  <p align="center">Here's My Stats</p>
  <p style="display: flex" align="center">
   <img style="width: 100%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true"> <br />
