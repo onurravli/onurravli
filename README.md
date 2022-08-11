@@ -1,3 +1,6 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=onurravli&label=Views&color=b40e0e&style=flat-square" alt="onurravli" />
+</p>
+
 ```python
 class Ben:
   def __init__(self):
@@ -12,9 +15,7 @@ class Ben:
   def merhaba(self):
     print("Merhaba, GitHub profilime hos geldiniz. <3")
 ```
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=onurravli&label=Views&color=b40e0e&style=flat-square" alt="onurravli" />
   <br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurravli" alt="onurravli" /></a>
   <br>
