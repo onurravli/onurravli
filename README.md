@@ -52,7 +52,7 @@ class Developer:
   </a>
 </p>
 
-[![onurravli Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onurravli&custom_title=onurravli%20Trips's%20Contribution%20Graph&hide_border=true)](https://github.com/onurravli)
+[![onurravli Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onurravli&custom_title=onurravli%20Trips's%20Contribution%20Graph&hide_border=true&bg_color=fff)](https://github.com/onurravli)
 
  
  
