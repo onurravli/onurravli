@@ -47,7 +47,7 @@ class Developer:
  
  <p align="center">Here's My Stats</p>
  <p style="display: flex" align="center">
-  <img style="width: 100%; " src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true"> <br />
+  <img style="width: 300px; " src="https://github-readme-stats.vercel.app/api?username=onurravli&count_private=true"> <br />
   <img style="width: 100%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&layout=compact"> <br />
   <img style="width: 100%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli&" alt="onurravli" /> <br />
   <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurravli" alt="onurravli" />  </a> --> 
