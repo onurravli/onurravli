@@ -51,9 +51,8 @@ class Developer:
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli&hide_border=true" />
   </a>
 </p>
-<br>
 
-[![onurravli Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onurravli&custom_title=onurravli%20Trips's%20Contribution%20Graph&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/onurravli)
+[![onurravli Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onurravli&custom_title=onurravli%20Trips's%20Contribution%20Graph&hide_border=true)](https://github.com/onurravli)
 
  
  
