@@ -1,4 +1,4 @@
-## 💫 About Me:
+<h1 align="center">Hi, I'm Onur! 👋🏻</h1>
 
 🔭 I’m currently working on some open source projects.<br>🤝 I’m looking for help with C++, Java, Python, machine learning and image processing.<br>🌱 I’m currently learning C++, Python, Java, Rust and Go.<br>💬 Ask me about whatever you want.
 
