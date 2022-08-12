@@ -47,8 +47,9 @@ class Developer:
  <p align="center">Here's My Stats</p>
 <p align="left">
   <a href="https://github.com/onurravli">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=onurravli&show_icons=true&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli&hide_border=true" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=onurravli&show_icons=true&hide_border=true" />
+    <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli" />
   </a>
 </p>
 
