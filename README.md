@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=onurravli&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=onurravli&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
