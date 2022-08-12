@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on some open source projects.<br>🤝 I’m looking for help with C++, Java, Python, machine learning and image processing.<br>🌱 I’m currently learning C++, Python, Java, Rust and Go.<br>💬 Ask me about whatever you want.
 
+![](https://komarev.com/ghpvc/?username=onurravli)
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onurravli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onurravli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onurravli) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@onurravli) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/onurravli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onurravli)
@@ -30,4 +32,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=onurravli&icon=5&color=4)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=onurravli&icon=5&color=4)](https://visitcount.itsvg.in) -->
