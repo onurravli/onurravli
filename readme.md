@@ -23,13 +23,17 @@
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true">
 
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli&theme=default&hide_border=false">
+</p>
 
+<p align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 </p>
+<p align="center">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=onurravli&bg_color=fff&line=000&area=true&area_color=a61127&color=a61127">
+</p>
 
 ## 🏆 GitHub Kupalarım
 
