@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba! Ben Onur.</h1>
+<h1 align="center">Merhabalar, ben Onur. 👋🏻</h1>
 
 <p align="center">Jr. geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi. </p>
 
