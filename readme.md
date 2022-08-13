@@ -1,10 +1,12 @@
 <h1 align="center">Merhabalar, ben Onur. 👋🏻</h1>
 
 <p align="center">Jr. geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi.</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge">
+<a href="https://twitter.com/onurravli" target="blank"><img src="https://img.shields.io/twitter/follow/onurravli?logo=twitter&style=for-the-badge" alt="onurravli" /></a>
+</p>
 
 ## 🌐 Bana Ulaşın
-
+[![E-Mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onurravli@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/onurravli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/onurravli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/onurravli)
 
 ## 💰 Bana Bağış Yapın
