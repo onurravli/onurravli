@@ -1,5 +1,7 @@
 <h1 align="center">Merhaba! Ben Onur.</h1>
 
+<h3 align="center">Jr. geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi. </h3>
+
 ## 🌐 Bana Ulaşın
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/onurravli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/onurravli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/onurravli)
