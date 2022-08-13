@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba! Ben Onur.</h1>
 
-<h2 align="center">Jr. geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi. </h2>
+<p align="center">Jr. geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi. </p>
 
 ## 🌐 Bana Ulaşın
 
