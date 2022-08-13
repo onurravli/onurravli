@@ -29,6 +29,8 @@
 
 </p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=onurravli&bg_color=fff&line=000&area=true&area_color=a61127&color=a61127">
+
 ## 🏆 GitHub Kupalarım
 
 ![](https://github-profile-trophy.vercel.app/?username=onurravli&theme=flat&no-frame=false&no-bg=false&margin-w=4)
