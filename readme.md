@@ -1,6 +1,7 @@
 <h1 align="center">Merhabalar, ben Onur. 👋🏻</h1>
 <p align="center">Jr. geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi.</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge">
 <a href="https://twitter.com/onurravli" target="blank"><img src="https://img.shields.io/twitter/follow/onurravli?logo=twitter&style=for-the-badge" alt="onurravli" /></a>
 </p>
 
