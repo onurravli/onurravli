@@ -6,12 +6,6 @@
 <a href="https://twitter.com/onurravli" target="blank"><img src="https://img.shields.io/twitter/follow/onurravli?logo=twitter&style=for-the-badge" alt="onurravli" /></a>
 </p>
 
-  
-<p align="center">
-<img width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=onurravli&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
-</p>
-
-
 ## 🌐 Bana Ulaşın
 
 [![E-Mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onurravli@hotmail.com)
@@ -50,4 +44,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=onurravli&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+## 🎧 Spotify
+
+<p align="center">
+<img width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=onurravli&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
+</p>
   
