@@ -44,3 +44,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=onurravli&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+<p align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=onurravli&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</p>
