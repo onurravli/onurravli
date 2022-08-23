@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba. 👋🏻</h1>
-<p align="center">Junior geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi. </p>
+<p align="center">Junior geliştirici, mühendislik öğrencisi, GNU Linux ve KDE Plasma kullanıcısı, açık kaynak ve özgür yazılım destekçisi, 21.</p>
 </p>
 
 ## 🌐 Bana Ulaşın
