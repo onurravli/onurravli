@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's Onur. 👋🏻</h1>
-<p align="center">Jr. developer, computer science student, GNU Linux & KDE Plasma user/lover, open source and free software supporter, 21.
+<p align="center">Junior developer, computer science and engineering student, GNU Linux & KDE Plasma advocate/user/enthusiast, open source and free software supporter, 21 years old.
 </p>
 
 ## 🌐 Reach Me
