@@ -29,13 +29,3 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 </p>
-
-## 🏆 My Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=onurravli&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
-## 🎧 What Am I Listening to Now?
-
-<p align="center">
-<img width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=onurravli&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
-</p>
