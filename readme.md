@@ -30,7 +30,3 @@
 <img height="150px" src="https://streak-stats.demolab.com/?user=onurravli">
 
 </p>
-
-<center>
-<img src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge">
-</center>
