@@ -1,5 +1,6 @@
 <h1 align="center">Hello, It's Onur. 👋🏻</h1>
 <p style="margin-left: 20%; margin-right: 20%" align="justify">Junior developer, computer science and engineering student, GNU Linux & KDE Plasma advocate/user/enthusiast, open source and free software supporter, 21 years old.
+<img style="margin: 20px auto 0px auto; display: block;" src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge">
 </p>
 
 ## 🌐 Reach Me
