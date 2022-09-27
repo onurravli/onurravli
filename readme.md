@@ -32,4 +32,4 @@
 
 </p>
 
-<img style="margin: 20px auto 0px auto; display: block;" src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge">
+<img style="margin-left: auto; margin-right: auto; display: block;" src="https://komarev.com/ghpvc/?username=onurravli&style=for-the-badge">
