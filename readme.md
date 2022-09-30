@@ -30,3 +30,5 @@
 <img height="150px" src="https://streak-stats.demolab.com/?user=onurravli">
 
 </p>
+
+<img style="margin-left: auto; margin-right: auto; display: block;" src="https://github.com/onurravli/onurravli/blob/main/images/stat.svg"/>
