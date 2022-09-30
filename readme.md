@@ -21,7 +21,13 @@
 
 ## 📊 My Stats
 
+
+
 <p style="img {margin-left: auto; margin-right: auto; display: block}" align="center">
+
+<img src="https://wakatime.com/badge/user/60a20a1f-8e1f-409c-9bd1-cc5cf405c3cd.svg?style=for-the-badge" alt="Total time coded since Sep 27 2022" />
+
+<br>
 
 <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true">
 
