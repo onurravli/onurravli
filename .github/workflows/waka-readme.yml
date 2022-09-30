@@ -16,6 +16,7 @@ jobs:
       # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
+          STATS_RANGE: all_time
           BLOCKS: ░▒▓█
           SHOW_TITLE: true
           SHOW_TIME: true
