@@ -23,4 +23,4 @@ jobs:
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "main"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MSG: "Otomatik kodlama zamanı güncellemesi. :alien:"
