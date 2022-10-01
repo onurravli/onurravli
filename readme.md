@@ -38,3 +38,9 @@
 </p>
 
 <img style="margin-left: auto; margin-right: auto; display: block;" src="https://github.com/onurravli/onurravli/blob/main/images/stat.svg"/>
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
