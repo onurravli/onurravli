@@ -1,9 +1,9 @@
 name: WakaTime status update
 
 on:
-  branches: [main]
-schedule:
-  - cron: "1 0 * * *"
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: '0 0 * * *' # runs at every 12AM UTC
 
 jobs:
   update-readme:
