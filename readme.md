@@ -26,7 +26,7 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 <img height="150px" src="https://streak-stats.demolab.com/?user=onurravli">
 </p>
-<img style="margin-left: auto; margin-right: auto; display: block;" src="https://github.com/onurravli/onurravli/blob/main/images/stat.svg"/>
+<img style="margin-left: auto; margin-right: auto; display: block;" width="300px" src="https://github.com/onurravli/onurravli/blob/main/images/stat.svg"/>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
