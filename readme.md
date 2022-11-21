@@ -2,6 +2,10 @@
 <p style="margin-left: 20%; margin-right: 20%" align="justify">Junior developer, computer science and engineering student, GNU Linux & KDE Plasma advocate/user/enthusiast, open source and free software supporter, 21 years old.
 </p>
 
+<a href="https://app.codiga.io/public/user/github/onur">
+   <img src="https://app.codiga.io/public/badge/user/github/onur" alt="Codiga badge" />
+</a>
+
 ## 🌐 Reach Me
 
 [![E-Mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onurravli@hotmail.com)
