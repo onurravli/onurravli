@@ -2,9 +2,6 @@
 <p style="margin-left: 20%; margin-right: 20%" align="justify">Junior developer, computer science and engineering student, GNU Linux & KDE Plasma advocate/user/enthusiast, open source and free software supporter, 21 years old.
 </p>
 
-<img height="160px"
-     src = "https://api.codiga.io/public/badge/user/github/onurravli?style=light"/>
-
 
 ## 🌐 Reach Me
 
@@ -27,6 +24,4 @@
 <p style="img {margin-left: auto; margin-right: auto; display: block}" align="center">
 <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-<img height="150px" src="https://streak-stats.demolab.com/?user=onurravli">
-<img style="margin-left: auto; margin-right: auto; display: block;" height="200px" src="https://github.com/onurravli/onurravli/blob/main/images/stat.svg"/>
 </p>
