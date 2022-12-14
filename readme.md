@@ -24,4 +24,5 @@
 <p style="img {margin-left: auto; margin-right: auto; display: block}" align="center">
 <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true">
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+[![onurravli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=onurravli)](https://github.com/anuraghazra/github-readme-stats)
 </p>
