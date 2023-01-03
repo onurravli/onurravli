@@ -22,8 +22,8 @@
 
 ## 📊 My Stats
 <p style="img {margin-left: auto; margin-right: auto; display: block}" align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=5">
+<img width="%33" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6">
+<img width="%33" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=5">
   <br>
-  <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true">
+  <img width="%33" src="https://github-readme-stats.vercel.app/api?username=onurravli&theme=default&hide_border=false&include_all_commits=true&count_private=true">
 </p>
