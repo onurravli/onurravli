@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's Onur. 👋🏻</h1>
-<p style="margin-left: 20%; margin-right: 20%" align="justify">Software Developer. Student. GNU Linux advocate/user/enthusiast, open source and free software supporter.
+<p style="margin-left: 20%; margin-right: 20%" align="justify">Yazılım geliştirici, öğrenci. #gnu #linux #cpp #nodejs #python #java
 </p>
 
 
