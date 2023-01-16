@@ -18,7 +18,7 @@
 
 <p style="img {margin-left: auto; margin-right: auto; display: block}" align="center">
 <img height="150px" src="https://github-readme-stats-theta-drab.vercel.app/api/top-langs/?username=onurravli&hide=cmake,dart&exclude_repo=rustlings&include_all_commits=true&count_private=true&layout=compact&langs_count=6&card_width=380">
-<img height="150px" src="https://github-readme-stats-theta-drab.vercel.app/api/wakatime?username=onurravli&langs_count=5">
+<img height="150px" src="https://github-readme-stats-theta-drab.vercel.app/api/wakatime?username=onurravli&langs_count=5&card_width=380">
 <br>
-<img height="150px" src="https://github-readme-stats-theta-drab.vercel.app/api?username=onurravli&include_all_commits=true&count_private=true">
+<img height="150px" src="https://github-readme-stats-theta-drab.vercel.app/api?username=onurravli&include_all_commits=true&count_private=true&card_width=380">
 </p>
