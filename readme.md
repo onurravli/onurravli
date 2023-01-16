@@ -17,8 +17,8 @@
 ### İstatistikler
 
 <p style="img {margin-left: auto; margin-right: auto; display: block}" align="center">
-<img height="150px" src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&hide=cmake,dart&exclude_repo=rustlings&include_all_commits=true&count_private=true&layout=compact&langs_count=9&card_width=431&theme=transparent">
-<img height="150px" src="https://github-readme-stats-onurravli.vercel.app/api/wakatime?username=onurravli&langs_count=5&theme=transparent">
+<img height="170px" src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&hide=cmake,dart&exclude_repo=rustlings&include_all_commits=true&count_private=true&layout=compact&langs_count=9&card_width=431&theme=transparent">
+<img height="170px" src="https://github-readme-stats-onurravli.vercel.app/api/wakatime?username=onurravli&langs_count=5&theme=transparent">
 <br>
-<img height="150px" src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&include_all_commits=true&count_private=true&theme=transparent">
+<img height="170px" src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&include_all_commits=true&count_private=true&theme=transparent">
 </p>
