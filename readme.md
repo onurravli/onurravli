@@ -7,6 +7,15 @@ Ben Onur. Konya Teknik Üniversitesi'nde bilgisayar mühendisliği 2. sınıf ö
 <img src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&card_width=400">
 <img src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&exclude_repo=rustlings,neofetch&layout=compact&langs_count=6&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width=400>
 
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+
+
 <!--
 <p style="img {margin-left: auto; margin-right: auto; display: block}" align="center">
 <img src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&hide=cmake,dart&exclude_repo=rustlings&include_all_commits=true&count_private=true&layout=compact&langs_count=9&card_width=445">
