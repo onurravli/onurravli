@@ -9,6 +9,8 @@ Ben Onur. Konya Teknik Üniversitesi'nde bilgisayar mühendisliği 2. sınıf ö
 
 ### .init
 
+> npx onurravli
+
 Merhaba. Ben Onur. 21 yaşımdayım. Konya Teknik Üniversitesi bilgisayar mühendisliği 2. sınıfta okuyorum.
 
 ### .hakkımda
