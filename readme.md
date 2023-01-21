@@ -25,6 +25,8 @@ Yayımladığım bazı uygulamalar ve yazılımlar şu şekilde:
 -   [TypeScript Proje Boilerplate'i](https://github.com/onurravli/typescript_boilerplate)
 -   [rotinv (TypeScript)](https://github.com/onurravli/rotinv): TypeScript için TCKN doğrulama paketi.
 
+![onurravli's GitHub stats](https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
+
 ### .destek
 
 Bana [Patreon](https://patreon.com/onurravli) ve [Buy Me A Coffee](https://buymeacoffee.com/onurravli) üzerinden destek olabilir ya da [GitHub](https://github.com/sponsors/onurravli/)'ta sponsor olabilirsiniz.
