@@ -17,12 +17,13 @@ Merhaba. Ben Onur. 21 yaşımdayım. Konya Teknik Üniversitesi bilgisayar mühe
 
 Yayımladığım bazı uygulamalar ve yazılımlar şu şekilde:
 
--   [turkishid (Python)](https://github.com/onurravli/turkishid): Python için TCKN doğrulama paketi.
--   [rotinv (TypeScript)](https://github.com/onurravli/rotinv): TypeScript için TCKN doğrulama paketi.
--   [TDK Sözlük API (TypeScript/JavaScript)](https://github.com/onurravli/tdk-sozluk-api): Unofficial bir Güncel Türkçe Sözlük API'ı.
 -   [friendify (npm, JavaScript)](https://www.npmjs.com/package/friendify): node.js için Spotify arkadaş aktivitesi wrapper'ı.
 -   [friendify (pub.dev, Dart)](https://pub.dev/packages/friendify): Dart ve Flutter için Spotify arkadaş aktivitesi wrapper'ı.
+-   [TTPMan (C++)](https://github.com/onurravli/TTPMan): Linux kullanan bilgisayarlarda sıcaklık politikası ayarlama üzerine kurulu bir yazılım.
+-   [turkishid (Python)](https://github.com/onurravli/turkishid): Python için TCKN doğrulama paketi.
+-   [TDK Sözlük API (TypeScript/JavaScript)](https://github.com/onurravli/tdk-sozluk-api): Unofficial bir Güncel Türkçe Sözlük API'ı.
 -   [TypeScript Proje Boilerplate'i](https://github.com/onurravli/typescript_boilerplate)
+-   [rotinv (TypeScript)](https://github.com/onurravli/rotinv): TypeScript için TCKN doğrulama paketi.
 
 ### .destek
 
