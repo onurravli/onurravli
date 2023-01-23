@@ -10,7 +10,7 @@ Merhaba. Ben Onur. 21 yaşımdayım. Konya Teknik Üniversitesi bilgisayar mühe
 
 Yayımladığım bazı projeler şu şekilde:
 
--   [Git Türkçe Kullanma Kılavuzu](https://github.com/onurravli/git_turkce_kullanma_kilavuzu)
+-   [Git Türkçe Kullanma Kılavuzu](#)
 -   [friendify (npm, JavaScript)](https://www.npmjs.com/package/friendify): node.js için Spotify arkadaş aktivitesi wrapper'ı.
 -   [friendify (pub.dev, Dart)](https://pub.dev/packages/friendify): Dart ve Flutter için Spotify arkadaş aktivitesi wrapper'ı.
 -   [TTPMan (C++)](https://github.com/onurravli/TTPMan): Linux kullanan bilgisayarlarda sıcaklık politikası ayarlama üzerine kurulu bir yazılım.
