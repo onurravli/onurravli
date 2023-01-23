@@ -20,7 +20,10 @@ Yayımladığım bazı uygulamalar ve yazılımlar şu şekilde:
 
 <details>
 <summary>onurravli's GitHub Stats</summary>
-<img style="align: center" src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="onurravli's GitHub Stats">
+<br>
+<img src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="onurravli's GitHub Stats">
+<br>
+<img src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&exclude_repo=rustlings,neofetch&layout=compact&langs_count=6&theme=transparent">
 </details>
 
 ### .destek
