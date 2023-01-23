@@ -25,7 +25,7 @@ Yayımladığım bazı uygulamalar ve yazılımlar şu şekilde:
 <br>
 <img src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&exclude_repo=rustlings,neofetch&layout=compact&langs_count=6&theme=transparent&card_width=395">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=5&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20(Last%207%20Days)&card_width=445">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=5&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20(Last%207%20Days)&card_width=395">
 </details>
 
 ### .destek
