@@ -8,8 +8,9 @@ Merhaba. Ben Onur. 21 yaşımdayım. Konya Teknik Üniversitesi bilgisayar mühe
 
 Şu anda aktif olarak C++, Javascript, TypeScript, Python ve Java'yı hem kullanıyor, hem de öğreniyorum. İşletim sistemi olarak Manjaro GNU/Linux, masaüstü ortamı olarak KDE Plasma kullanıyorum.
 
-Yayımladığım bazı uygulamalar ve yazılımlar şu şekilde:
+Yayımladığım bazı projeler şu şekilde:
 
+-   [Git Türkçe Kullanma Kılavuzu](https://github.com/onurravli/git_turkce_kullanma_kilavuzu)
 -   [friendify (npm, JavaScript)](https://www.npmjs.com/package/friendify): node.js için Spotify arkadaş aktivitesi wrapper'ı.
 -   [friendify (pub.dev, Dart)](https://pub.dev/packages/friendify): Dart ve Flutter için Spotify arkadaş aktivitesi wrapper'ı.
 -   [TTPMan (C++)](https://github.com/onurravli/TTPMan): Linux kullanan bilgisayarlarda sıcaklık politikası ayarlama üzerine kurulu bir yazılım.
