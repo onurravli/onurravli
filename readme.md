@@ -2,11 +2,11 @@
 
 > npx onurravli
 
-Hi, it's Onur. I am a 21 years old software developer and sophomore year computer science and engineering student from Turkey.
+Hi, it's Onur. I am a 21 years old software developer and a computer science and engineering student from Turkey.
 
 ### .about-me
 
-I am using and learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now enthusiastically.
+I am using and learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now. Enthusiastically. Constantly.
 
 Some of my projects:
 
