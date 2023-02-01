@@ -6,7 +6,7 @@ Hi, it's Onur. I am a 21 years old software developer and a computer science and
 
 ### .about-me
 
-I am using and learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now. Enthusiastically. Constantly.
+I am using and learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now. Enthusiastically. Constantly. And I am a big GNU/Linux lover that I am using Manjaro as my primary operating system with KDE Plasma desktop environment.
 
 Some of my projects:
 
