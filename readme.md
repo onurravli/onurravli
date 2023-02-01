@@ -2,7 +2,7 @@
 
 > npx onurravli
 
-Hi, it's Onur. I am a 21 years old software developer and a computer science and engineering student from Turkey.
+Hi, it's Onur. I am a 21 years old software developer and a computer science/engineering student from Turkey.
 
 ### .about-me
 
