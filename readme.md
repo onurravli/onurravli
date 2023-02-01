@@ -2,24 +2,15 @@
 
 > npx onurravli
 
-Merhaba. Ben Onur. 21 yaşımdayım. Konya Teknik Üniversitesi bilgisayar mühendisliği 2. sınıfta okuyorum.
+Hi, it's Onur. I am a 21 years old software developer and sophomore year computer science and engineering student from Turkey.
 
-### .hakkımda
+### .about-me
 
-Şu anda aktif olarak C++, Javascript, TypeScript, Python ve Java'yı hem kullanıyor, hem de öğreniyorum. İşletim sistemi olarak Manjaro GNU/Linux, masaüstü ortamı olarak KDE Plasma kullanıyorum.
+I am using and learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now enthusiastically.
 
-Yayımladığım bazı projeler şu şekilde:
+Some of my projects:
 
-<!-- -   [Git Türkçe Kullanma Kılavuzu](#)
--   [friendify (npm, JavaScript)](https://www.npmjs.com/package/friendify): node.js için Spotify arkadaş aktivitesi wrapper'ı.
--   [friendify (pub.dev, Dart)](https://pub.dev/packages/friendify): Dart ve Flutter için Spotify arkadaş aktivitesi wrapper'ı.
--   [TTPMan (C++)](https://github.com/onurravli/TTPMan): Linux kullanan bilgisayarlarda sıcaklık politikası ayarlama üzerine kurulu bir yazılım.
--   [turkishid (PyPi, Python)](https://github.com/onurravli/turkishid): Python için TCKN doğrulama paketi.
--   [TDK Sözlük API (TypeScript/JavaScript)](https://github.com/onurravli/tdk-sozluk-api): Unofficial bir Güncel Türkçe Sözlük API'ı.
--   [TypeScript Proje Boilerplate'i](https://github.com/onurravli/typescript_boilerplate)
--   [rotinv (TypeScript)](https://github.com/onurravli/rotinv): TypeScript için TCKN doğrulama paketi. -->
-
-| **Proje**                                                                                  | **Açıklama**                                                                            | **Teknoloji**                                                                                                                                                                                                                                                                                                                                        |
+| **Project**                                                                                | **Description**                                                                         | **Technology**                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [friendify](https://www.npmjs.com/package/friendify)                                       | node.js için Spotify arkadaş aktivitesi wrapper'ı.                                      | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)                                                                                                                         |
 | [friendify ](https://pypi.org/project/friendify)                                           | Dart ve Flutter için Spotify arkadaş aktivitesi wrapper'ı.                              | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)                                                                                                                                                                                                                                                 |
@@ -32,7 +23,7 @@ Yayımladığım bazı projeler şu şekilde:
 | [onurravli VSCode Extension Pack](https://github.com/onurravli/onur-ravli-extension-pack/) | Sık kullandığım VSCode eklentilerinden oluşan paket.                                    | ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=flat-square&logo=visual-studio-code&logoColor=white)                                                                                                                                                                                                          |
 
 <details>
-<summary>onurravli's GitHub Stats</summary>
+<summary>My GitHub Stats</summary>
 <br>
 <img src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&card_width=445" alt="onurravli's GitHub Stats">
 <br>
@@ -41,6 +32,6 @@ Yayımladığım bazı projeler şu şekilde:
 <img width="445px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=6&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20">
 </details>
 
-### .destek
+### .support-me
 
-Bana [Patreon](https://patreon.com/onurravli) ve [Buy Me A Coffee](https://buymeacoffee.com/onurravli) üzerinden destek olabilir ya da [GitHub](https://github.com/sponsors/onurravli/)'ta sponsor olabilirsiniz.
+You can support me on [Patreon](https://patreon.com/onurravli) and [Buy Me A Coffee](https://buymeacoffee.com/onurravli) or you can be one of my sponsors on [GitHub](https://github.com/sponsors/onurravli/).
