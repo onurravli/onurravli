@@ -10,14 +10,23 @@ Merhaba. Ben Onur. 21 yaşımdayım. Konya Teknik Üniversitesi bilgisayar mühe
 
 Yayımladığım bazı projeler şu şekilde:
 
--   [Git Türkçe Kullanma Kılavuzu](#)
+<!-- -   [Git Türkçe Kullanma Kılavuzu](#)
 -   [friendify (npm, JavaScript)](https://www.npmjs.com/package/friendify): node.js için Spotify arkadaş aktivitesi wrapper'ı.
 -   [friendify (pub.dev, Dart)](https://pub.dev/packages/friendify): Dart ve Flutter için Spotify arkadaş aktivitesi wrapper'ı.
 -   [TTPMan (C++)](https://github.com/onurravli/TTPMan): Linux kullanan bilgisayarlarda sıcaklık politikası ayarlama üzerine kurulu bir yazılım.
 -   [turkishid (PyPi, Python)](https://github.com/onurravli/turkishid): Python için TCKN doğrulama paketi.
 -   [TDK Sözlük API (TypeScript/JavaScript)](https://github.com/onurravli/tdk-sozluk-api): Unofficial bir Güncel Türkçe Sözlük API'ı.
 -   [TypeScript Proje Boilerplate'i](https://github.com/onurravli/typescript_boilerplate)
--   [rotinv (TypeScript)](https://github.com/onurravli/rotinv): TypeScript için TCKN doğrulama paketi.
+-   [rotinv (TypeScript)](https://github.com/onurravli/rotinv): TypeScript için TCKN doğrulama paketi. -->
+
+| **Proje**      | **Açıklama**                                                                            | **Teknoloji**                                                                                                                                                                                                                    |
+| -------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| friendify      | node.js için Spotify arkadaş aktivitesi wrapper'ı.                                      | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| friendify      | Dart ve Flutter için Spotify arkadaş aktivitesi wrapper'ı.                              | Dart, Flutter                                                                                                                                                                                                                    |
+| TDK Sözlük API | Unofficial bir Güncel Türkçe Sözlük API'ı.                                              | TypeScript, Express.js                                                                                                                                                                                                           |
+| turkishid      | Python için TCKN doğrulama paketi.                                                      | Dart, Flutter                                                                                                                                                                                                                    |
+| rotinv         | Javascript için TCKN doğrulama paketi.                                                  | Node.js, TypeScript                                                                                                                                                                                                              |
+| TTPMan         | Linux kullanan bilgisayarlarda sıcaklık politikası ayarlama üzerine kurulu bir yazılım. | C++                                                                                                                                                                                                                              |
 
 <details>
 <summary>onurravli's GitHub Stats</summary>
