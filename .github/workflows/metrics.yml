@@ -27,14 +27,14 @@ jobs:
           plugin_achievements_threshold: C
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_days: 14
+          plugin_habits_days: 28
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 400
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_colors: github
           plugin_languages_limit: 10
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 56
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
