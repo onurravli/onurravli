@@ -32,8 +32,9 @@ Some of my projects:
 <img width="445px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=6&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20">
 </details>
 
+<img align="center" width="80%" src="./github-metrics.svg" alt="Github metriklerim">
+
+
 ### .support-me
 
 You can support me on [Patreon](https://patreon.com/onurravli) and [Buy Me A Coffee](https://buymeacoffee.com/onurravli) or you can be one of my sponsors on [GitHub](https://github.com/sponsors/onurravli/).
-
-<img width="80%" src="./github-metrics.svg" alt="Github metriklerim">
