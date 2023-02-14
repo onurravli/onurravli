@@ -35,3 +35,5 @@ Some of my projects:
 ### .support-me
 
 You can support me on [Patreon](https://patreon.com/onurravli) and [Buy Me A Coffee](https://buymeacoffee.com/onurravli) or you can be one of my sponsors on [GitHub](https://github.com/sponsors/onurravli/).
+
+<img width="80%" src="./github-metrics.svg" alt="Github metriklerim">
