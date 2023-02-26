@@ -33,7 +33,11 @@ Some of my projects:
 <img width="445px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=6&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20">
 </details>
 
-<img align="center" width="80%" src="./github-metrics.svg" alt="Github metriklerim">
+<div 
+align="center"
+id="metrics">
+<img style="width: 80%" src="./github-metrics.svg" alt="Github metriklerim">
+</div>
 
 ### .support-me
 
