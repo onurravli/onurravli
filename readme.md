@@ -2,7 +2,7 @@
 
 > npx onurravli
 
-Hi, it's Onur. I am a 21 years old software developer and a computer science/engineering student from Turkey.
+Hi, it's Onur. I am a 21 years old, full-stack software developer and a computer science/engineering student from Türkiye.
 
 ### .about-me
 
@@ -24,8 +24,15 @@ Some of my projects:
 | [Git Türkçe Kullanma Kılavuzu](https://github.com/onurravli/git-turkce-kullanma-kilavuzu)  | Git ve GitHub'ı Türkçe 🇹🇷 bir şekilde anlatmaya çalıştığım repo.                                | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)                                                                                                                                                                                                                                     |
 | [onurravli VSCode Extension Pack](https://github.com/onurravli/onur-ravli-extension-pack/) | A list of extensions that I am using.                                                           | ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=flat-square&logo=visual-studio-code&logoColor=white)                                                                                                                                                                                                          |
 
+<div 
+align="center"
+id="metrics">
+<img style="width: 80%" src="./github-metrics.svg" alt="My GitHub stats.">
+</div>
+
+
 <details>
-<summary>My GitHub Stats</summary>
+<summary>Some Other GitHub Stats</summary>
 <br>
 <img src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&card_width=445" alt="onurravli's GitHub Stats">
 <br>
@@ -34,11 +41,6 @@ Some of my projects:
 <img width="445px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=6&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20">
 </details>
 
-<div 
-align="center"
-id="metrics">
-<img style="width: 80%" src="https://metrics.lecoq.io/onurravli?template=classic&languages=1&achievements=1&notable=1&tweets=1&isocalendar=1&habits=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&tweets=false&tweets.user=onurravli&tweets.attachments=false&tweets.limit=1&config.timezone=Europe%2FIstanbul&config.twemoji=true" alt="Github metriklerim">
-</div>
 
 ### .support-me
 
