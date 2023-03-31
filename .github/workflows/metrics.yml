@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          body: "Update metrics. :alien:"
           token: ${{ secrets.METRICS_TOKEN }}
           user: onurravli
           template: classic
