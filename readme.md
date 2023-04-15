@@ -40,6 +40,8 @@ id="metrics">
 <img src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&exclude_repo=rustlings,neofetch&layout=compact&langs_count=6&theme=transparent&card_width=395">
 <br>
 <img width="445px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=6&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20">
+<br>
+<img width="445px"  src="https://streak-stats.demolab.com/?user=onurravli">
 </details>
 
 
