@@ -25,11 +25,13 @@ Some of my projects:
 | [Git Türkçe Kullanma Kılavuzu](https://github.com/onurravli/git-turkce-kullanma-kilavuzu)  | Git ve GitHub'ı Türkçe 🇹🇷 bir şekilde anlatmaya çalıştığım repo.                                | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)                                                                                                                                                                                                                                     |
 | [onurravli VSCode Extension Pack](https://github.com/onurravli/onur-ravli-extension-pack/) | A list of extensions that I am using.                                                           | ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=flat-square&logo=visual-studio-code&logoColor=white)                                                                                                                                                                                                          |
 
+<!--
 <div 
 align="center"
 id="metrics">
 <img style="width: 80%" src="./github-metrics.svg" alt="My GitHub stats.">
 </div>
+-->
 
 
 <details>
