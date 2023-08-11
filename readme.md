@@ -1,14 +1,10 @@
-### .init
+### .about-me
 
 > npx onurravli
 
-Hi, it's Onur. I am a 22 years old, software developer and a computer science/engineering student from Türkiye.
+Hi, it's Onur. I am a 22 years old, software developer and a computer science/engineering student from Türkiye. I am learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now. Enthusiastically. Constantly.
 
-### .about-me
-
-I am learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now. Enthusiastically. Constantly.
-
-Some of my projects:
+### .projects
 
 | **Project**                                                                                | **Description**                                                                                 | **Technology**                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
