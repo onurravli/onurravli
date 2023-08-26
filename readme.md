@@ -32,6 +32,8 @@ Hi, it's Onur. I am a 22 years old, software developer and a computer science/en
 <img width="445px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=6&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20">
 <br>
 <img width="445px"  src="https://streak-stats.demolab.com/?user=onurravli">
+<br>
+<img width='445px' src='https://github-profile-trophy.vercel.app/?username=onurravli'/>
 </details>
 
 
