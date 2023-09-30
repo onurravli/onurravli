@@ -468,27 +468,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 22.03253669479409%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">28%</span>
+                                <div class="bar" style="width: 21.572370122243694%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.3128794303739544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">TSX</span>
-                                <div class="bar" style="width: 0.060363114232312574%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.03156453951770523%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.3065073596901765%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">MDX</span>
-                                <div class="bar" style="width: 0.0261953137234564%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.08874659255326078%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">TSX</span>
+                                <div class="bar" style="width: 0.058585384052063615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">CSS</span>
+                                <div class="bar" style="width: 0.037898900734488594%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -986,7 +986,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 212k out of 54m repositories</span>
+                                    <span class="gh">ranked 212k out of 53m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">170</div>
                                     </div>
@@ -1069,7 +1069,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.37m out of 54m repositories</span>
+                                    <span class="gh">ranked 1.37m out of 53m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -1278,7 +1278,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2023, 03:52:02 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2023, 04:43:46 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
