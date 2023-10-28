@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=onurravli&style=flat-square)
+
+
 ### .about-me
 
 > npx onurravli
