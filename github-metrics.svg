@@ -406,32 +406,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 55.7789845738487%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 55.60194757553525%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">70%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 5.349930786695932%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.438537984392716%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 2.7462739885068133%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.666310945107717%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 1.4006162216749276%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.3598345894750885%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.5413407802039646%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5794704195291136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.18411082372419096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.17875008337224038%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -968,7 +968,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 216k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 216k out of 53m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">170</div>
                                     </div>
@@ -1167,7 +1167,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2023, 01:10:42 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2023, 02:12:36 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
