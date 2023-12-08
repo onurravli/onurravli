@@ -406,32 +406,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 41.197578391314956%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">51%</span>
+                                <div class="bar" style="width: 40.32389640883337%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">50%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 5.397762609921037%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.090149028128764%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 5.187539732994279%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 2.862788628830999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.3748335274546286%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 2.3676920292713257%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.5983168402572763%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7053331539064783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.1618604504696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.19081117953048943%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -968,7 +968,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 216k out of 51.5m repositories</span>
+                                    <span class="gh">ranked 216k out of 57.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">171</div>
                                     </div>
@@ -1167,7 +1167,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2023, 03:57:06 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2023, 04:57:19 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
