@@ -1,45 +1,23 @@
-![](https://komarev.com/ghpvc/?username=onurravli&style=flat-square)
-
-
-### .about-me
+### Hakkımda
 
 > npx onurravli
 
-Hi, it's Onur. I am a 22 years old, software developer and a computer science/engineering student from Türkiye. I am learning **C++**, **Javascript**, **Typescript**, **Python** and **Java** now. Enthusiastically. Constantly.
+Hi, I'm Onur. I'm a 22-year-old full-stack developer living in Turkey, currently in the 3rd year of computer engineering at Konya Technical University.
 
-### .projects
+### Contact
 
-| **Project**                                                                                | **Description**                                                                                 | **Technology**                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CommandGPT](https://github.com/onurravli/CommandGPT)| CommandGPT is a simple command line tool for command NLP to Bash, Powershell and vice-versa|![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)|
-| [Github Basic API](https://github-basic-api.vercel.app/)                                                                        |A very simple Github api written in Python using Flask. | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)                                                                                                                                      |
-| [AFAD Earthquake API](https://afad-api.vercel.app/)                                                                        | An unofficial earthquake API service for Disaster and Emergency Management Presidency of Turkey | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)                                                                                                                                      |
-| friendify                                                                                  | Spotify friend listening activity wrapper written in TypeScript for Node.js                     | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)                                                                                                                         |
-| friendify                                                                                  | Spotify friend listening activity wrapper written in Dart for Flutter and published on pub.dev  | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)                                                                                                                                                                                                                                                 |
-| [TDK Unofficial API](https://tdk-sozluk-api-onurravli.vercel.app/)                         | Unofficial Turkish Dictionary API written in TypeScript and Express.js for Node.js              | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) |
-| [turkishid ](https://pypi.org/project/turkishid)                                           | Republic of Turkey identity number validator written in Python and published on PyPi            | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)                                                                                                                                                                                                                                                 |
-| [rotinv](https://www.npmjs.com/package/rotinv)                                             | Republic of Turkey identity number validator written in Javascript                              | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)                                                                                                                         |
-| [TTPMan](https://github.com/onurravli/TTPMan)                                              | Throttle Thermal Policy Manager for laptops such as Asus FX5DT.                                 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)                                                                                                                                                                                                                                                |
-| [TypeScript Project Boilerplate](https://github.com/onurravli/typescript_boilerplate)      | A simple TypeScript project boilerplate.                                                        | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)                                                                                                                                                                                                                               |
-| [Git Türkçe Kullanma Kılavuzu](https://github.com/onurravli/git-turkce-kullanma-kilavuzu)  | Git ve GitHub'ı Türkçe 🇹🇷 bir şekilde anlatmaya çalıştığım repo.                                | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)                                                                                                                                                                                                                                     |
-| [onurravli VSCode Extension Pack](https://github.com/onurravli/onur-ravli-extension-pack/) | A list of extensions that I am using.                                                           | ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=flat-square&logo=visual-studio-code&logoColor=white)                                                                                                                                                                                                          |
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/onurravli)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onurravli)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/onurravli)
 
+### Tech Stack
 
-<details>
-<summary>Some Other GitHub Stats</summary>
-<br>
-<img src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&card_width=445" alt="onurravli's GitHub Stats">
-<br>
-<img src="https://github-readme-stats-onurravli.vercel.app/api/top-langs/?username=onurravli&exclude_repo=rustlings,neofetch&layout=compact&langs_count=6&theme=transparent&card_width=395">
-<br>
-<img width="445px" src="https://github-readme-stats.vercel.app/api/wakatime?username=onurravli&langs_count=6&theme=transparent&layout=compact&custom_title=Wakatime%20Stats%20">
-<br>
-<img width="445px"  src="https://streak-stats.demolab.com/?user=onurravli">
-<br>
-<img width='445px' src='https://github-profile-trophy.vercel.app/?username=onurravli'/>
-</details>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)    
 
+### Stats
 
-### .support-me
+<img src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="onurravli's GitHub Stats">
+
+### Support Me
 
 You can support me on [Patreon](https://patreon.com/onurravli) and [Buy Me A Coffee](https://buymeacoffee.com/onurravli) or you can be one of my sponsors on [GitHub](https://github.com/sponsors/onurravli/).
