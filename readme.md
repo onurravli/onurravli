@@ -19,6 +19,10 @@ Hi, I'm Onur. I'm a 22-year-old full-stack developer living in Turkey, currently
 
 <img src="https://github-readme-stats-onurravli.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="onurravli's GitHub Stats">
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### Support Me
 
 You can support me on [Patreon](https://patreon.com/onurravli) and [Buy Me A Coffee](https://buymeacoffee.com/onurravli) or you can be one of my sponsors on [GitHub](https://github.com/sponsors/onurravli/).
