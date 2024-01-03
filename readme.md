@@ -1,4 +1,4 @@
-### Hakkımda
+### About Me
 
 > npx onurravli
 
