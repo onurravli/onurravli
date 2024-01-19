@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "bin": {
+    "onurravli": "index.js"
+  },
+  "name": "onurravli",
+  "version": "3.0.1",
+  "description": "onurravli",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Onur Ravli",
+  "license": "MIT"
+}
