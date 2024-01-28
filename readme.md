@@ -18,8 +18,8 @@ Hi, I'm Onur. I'm a 22-year-old full-stack developer living in Turkey, currently
 ### Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=onurravli&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="onurravli's GitHub Stats" style="margin-right: 4rem">
-<img src="https://streak-stats.demolab.com?user=onurravli&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=onurravli&show_icons=true&locale=en" alt="onurravli's GitHub Stats" style="margin-right: 4rem">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=onurravli"/>
 </div>
 <img src="./github-metrics.svg" alt="onurravli's GitHub Metrics" width="100%">
 
