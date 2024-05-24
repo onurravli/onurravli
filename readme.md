@@ -8,7 +8,7 @@ Hi, I'm Onur. I'm a 22-year-old full-stack developer living in Turkey, currently
 
 ### Resume
 
-[Here](https://www.onurravli.com/Onur_Ravli_Resume.pdf)
+[Here](https://www.onurravli.com/cv)
 
 ### Contact
 
