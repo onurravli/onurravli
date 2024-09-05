@@ -1,4 +1,4 @@
-## Onur Ravli - Full-Stack Developer
+### Onur Ravli - Full-Stack Developer
 
 I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Express.js, Spring Boot, Django, React.js, React Native and Next.js</b>. Now, I am currently seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
 
