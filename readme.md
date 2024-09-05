@@ -1,8 +1,8 @@
-### Onur Ravli - Full-Stack Developer
+<h3>Onur Ravli - Full-Stack Developer</h3>
 
 I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Express.js, Spring Boot, Django, React.js, React Native and Next.js</b>. Now, I am currently seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
 
-### Abilities and Tech Stack
+<h3>Abilities and Tech Stack</h3>
 
 <b>Programming Languages:</b> TypeScript, Python, Java
 <br/>
@@ -14,6 +14,9 @@ I am experienced in full-stack development with proficiency in <b>TypeScript, Py
 <br/>
 <b>Other</b>: Git, RestAPI, GraphQL, Docker, Docker Compose, Amazon EC2, Amazon Lambda, Joi, Axios, Jest, Postman, Swagger
 
-### Contact
+<h3>Contact</h3>
 
-[E-Mail](mailto:onur@onurravli.com) • [LinkedIn](https://linkedin.com/in/onurravli) • [X](https://x.com/onurravli) • [Instagram](https://instagram.com/onurravli)
+<a href="mailto:onur@onurravli.com">E-Mail</a> • 
+<a href="https://linkedin.com/in/onurravli">LinkedIn</a> • 
+<a href="https://x.com/onurravli">X</a> • 
+<a href="https://instagram.com/onurravli">Instagram</a>
