@@ -36,3 +36,10 @@ I am experienced in full-stack development with proficiency in <b>TypeScript, Py
   <br />
   <img src="https://skillicons.dev/icons?i=git,graphql,docker,jest,postman" />
 </p>
+
+<p align="left">
+  <b>Most Used Languages</b>
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurravli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+</p>
