@@ -3,7 +3,7 @@
 `npx onurravli`
 
 <p align="left">
-I am experienced in backend development with proficiency in TypeScript. I have worked with various backend and frontend tools, including Node.js, Express.js, and Nest.js. Now, I am currently seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
+I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Express.js, Spring Boot, Django, React.js, React Native and Next.js</b>. Now, I am currently seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
 </p>
 
 <p align="left">
@@ -14,10 +14,17 @@ I am experienced in backend development with proficiency in TypeScript. I have w
 </p>
 
 <p align="left">
-  <b>Frameworks & Runtimes</b>
+  <b>Backend Frameworks & Runtimes</b>
   <br />
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,nest,django,spring,fastapi,flask&perline=4" />
+</p>
+
+<p align="left">
+  <b>Frontend Frameworks & Runtimes</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,scss&perline=4" />
 </p>
 
 <p align="left">
