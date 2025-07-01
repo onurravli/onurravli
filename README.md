@@ -1,9 +1,9 @@
 <h3>Hello, I'm Onur!</h3>
 
-`npx onurravli`
+`pnpx onurravli`
 
 <p align="left">
-I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Express.js, Spring Boot, Django, React.js, React Native and Next.js</b>. Now, I am currently seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
+I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Nest.js, Express.js, Spring Boot, Django, React.js, React Native and Next.js</b>. Now, I am currently seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@ I am experienced in full-stack development with proficiency in <b>TypeScript, Py
   <b>Backend Frameworks & Runtimes</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,django,spring,fastapi,flask&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,django,fastapi,flask,spring&perline=4" />
 </p>
 
 <p align="left">
@@ -46,23 +46,4 @@ I am experienced in full-stack development with proficiency in <b>TypeScript, Py
   <br />
   <br />
   <img src="https://skillicons.dev/icons?i=git,githubactions,graphql,jest,postman,pnpm,figma,md&perline=4" />
-</p>
-
-<p align="left">
-<details>
-  <summary><b>Some Stats</b></summary>
-  <br />
-  <p>
-  <b>Most Used Languages</b>
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurravli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" width="320" alt="languages graph"  />
-  </p>
-  <p>
-  <b>Other Stats</b>
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=onurravli&show_icons=true" width="320" alt="languages graph"  />
-  </p>
-</details>
 </p>
