@@ -10,40 +10,40 @@ I am experienced in full-stack development with proficiency in <b>TypeScript, Py
   <b>Programming Languages</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java&perline=4" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go&perline=5" />
 </p>
 
 <p align="left">
   <b>Backend Frameworks & Runtimes</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,django,fastapi,flask,spring&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,django,fastapi,flask,spring&perline=5" />
 </p>
 
 <p align="left">
   <b>Frontend Frameworks & Runtimes</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,scss&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind,scss&perline=5" />
 </p>
 
 <p align="left">
   <b>Cloud</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=linux,githubactions,docker,bash,aws,cloudflare,vercel,nginx&perline=4" />
+  <img src="https://skillicons.dev/icons?i=linux,githubactions,docker,bash,aws,cloudflare,vercel,nginx&perline=5" />
 </p>
 
 <p align="left">
   <b>Databases</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,pnpm,mysql,sqlite,redis,supabase&perline=4" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,pnpm,mysql,sqlite,redis,supabase&perline=5" />
 </p>
 
 <p align="left">
   <b>Other</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,githubactions,graphql,jest,postman,pnpm,figma,md&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,graphql,jest,postman,pnpm,figma,md&perline=5" />
 </p>
