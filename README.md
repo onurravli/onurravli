@@ -3,7 +3,7 @@
 `pnpx onurravli`
 
 <p align="left">
-I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Nest.js, Express.js, Spring Boot, Django, React.js, React Native and Next.js</b>. Now, I am currently seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
+I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Nest.js, Express.js, Spring Boot, Django, React.js, React Native, and Next.js</b>. I am currently working at <a href="https://insiderone.com">Insider One</a> and am always seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
 </p>
 
 <p align="left">
@@ -38,7 +38,7 @@ I am experienced in full-stack development with proficiency in <b>TypeScript, Py
   <b>Databases</b>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,pnpm,mysql,sqlite,redis,supabase&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,redis&perline=5" />
 </p>
 
 <p align="left">
