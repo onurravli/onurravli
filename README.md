@@ -1,7 +1,7 @@
 <h3>Hello, I'm Onur!</h3>
 
 <p align="left" style="text-align:justify;">
-I am experienced in full-stack development with proficiency in <b>TypeScript, Python, and Java</b>. I have worked with various backend and frontend tools, including <b>Node.js, Nest.js, Express.js, Spring Boot, Django, React.js, React Native, and Next.js</b>. I am currently working at <a href="https://insiderone.com" target="_blank">Insider One</a> and am always seeking opportunities to further develop my skills and contribute to innovative projects within the tech industry.
+Software developer with 2 years of proven experience in delivering scalable, type-safe web and cross-platform applications. Leverages AI-powered workflows to accelerate development cycles, automate boilerplate, and enhance code maintainability. Specialized in the Node.js ecosystem with a solid track record of collaborating with remote, international teams. Adept at tackling complex technical challenges, from integrating medical imaging workflows to designing efficient backend architec- tures. Focused on writing maintainable, clean code that bridges robust system design with practical product needs.
 </p>
 
 <p align="left">
